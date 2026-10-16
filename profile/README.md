@@ -11,7 +11,6 @@ Hyper PKPD aims to build next-generation, high-performance software tools design
 - **High-Performance Tools:** Building fast, efficient engine components and helper packages for quantitative analysis.
 
 ---
-**Owner:** Obinna Obianom  
-**GitHub:** [@oobianom](https://github.com/oobianom) *(or update with your GitHub handle)*  
+**Owner:** Obinna Obianom  **GitHub:** [@oobianom](https://github.com/oobianom) 
 
 ---
