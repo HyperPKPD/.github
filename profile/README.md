@@ -1,4 +1,4 @@
-# Welcome to Hyper PKPD: Accelerating Data Science & Pharmacometrics Solutions**
+# Hyper PKPD: Open Source Data Science & Pharmacometrics Solutions
 
 Hyper PKPD aims to build next-generation, high-performance software tools designed for data science, clinical pharmacology, and pharmacometrics. The mission is to simplify complex quantitative modeling workflows by crafting scalable, modern interfaces and developer-friendly frameworks.
 
