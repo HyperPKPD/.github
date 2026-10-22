@@ -4,7 +4,7 @@ Hyper PKPD aims to build next-generation, high-performance software tools design
 
 ---
 
-### 💡 Projects
+### Projects
 
 - **Scalable Interfaces:** Designing intuitive workflows and GUIs/APIs for pharmacometric modeling and simulation.
 - **Data Science Integration:** Bridging advanced statistical computing, quantitative clinical pharmacology, and modern software engineering.
