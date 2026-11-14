@@ -7,8 +7,8 @@ Hyper PKPD aims to build next-generation, high-performance software tools design
 ### Projects
 
 - **Scalable User Interfaces:** Designing intuitive workflows and GUIs/APIs for data science.
-- **Data Science Integration:** Bridging advanced statistical computing, quantitative clinical pharmacology, and modern software engineering.
-- **High-Performance Tools:** Building fast, efficient engine components and helper packages for quantitative analysis.
+- **Integration:** Bridging advanced statistical computing, quantitative clinical pharmacology, and modern software engineering.
+- **High-Performance Tools:** Building faster, efficient engine components and helper packages for quantitative analysis.
 
 ---
 **Owner:**  [@oobianom](https://github.com/oobianom) 
