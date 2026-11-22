@@ -13,7 +13,7 @@ Hyper PKPD aims to build next-generation, high-performance software tools design
 ---
 **Owner:**  [@oobianom](https://github.com/oobianom) 
 
-#### Codes and opinions are my own, and has nothing to do with the company that I work for.
+#### Personal work, personal opinions. HyperPKPD, including this website, its software, source code, documentation, articles and news, is the independent personal work of Obinna (Obi) Obianom. All views, opinions, statements and code are solely his own. They do not represent, reflect or constitute the views, opinions, policies, positions or endorsement of his employer, past or present, or of any other company, institution, client or organization with which he is or has been affiliated.
 ---
 
 
